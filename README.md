@@ -7,5 +7,7 @@ With growth in user base we can begin recommending crops to sow, based on estima
 ### Technology used: 
 PHP, HTML, CSS, MySQL
 
+The proj_report file contains a detailed description of the features of the product
+
 ### Learning
 This project helped me to understand a problem from user perspective, plan use case analysis and to ask the right questions to develop a software product. I was able to use the knowledge gained from Database Management System course in college and this wonderfull book on php (https://www.oreilly.com/library/view/head-first-php/9780596157739/), to integrate web applications and database management systems.
